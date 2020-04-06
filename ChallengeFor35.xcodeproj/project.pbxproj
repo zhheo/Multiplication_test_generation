@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		02744146243B5694001275B9 /* Answer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02744145243B5694001275B9 /* Answer.swift */; };
 		0295F434243A37AF00F4CBBA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0295F433243A37AF00F4CBBA /* AppDelegate.swift */; };
 		0295F436243A37AF00F4CBBA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0295F435243A37AF00F4CBBA /* SceneDelegate.swift */; };
 		0295F438243A37AF00F4CBBA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0295F437243A37AF00F4CBBA /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		02744145243B5694001275B9 /* Answer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Answer.swift; sourceTree = "<group>"; };
 		0295F430243A37AF00F4CBBA /* ChallengeFor35.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChallengeFor35.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0295F433243A37AF00F4CBBA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0295F435243A37AF00F4CBBA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				0295F433243A37AF00F4CBBA /* AppDelegate.swift */,
 				0295F435243A37AF00F4CBBA /* SceneDelegate.swift */,
 				0295F437243A37AF00F4CBBA /* ContentView.swift */,
+				02744145243B5694001275B9 /* Answer.swift */,
 				0295F439243A37B000F4CBBA /* Assets.xcassets */,
 				0295F43E243A37B000F4CBBA /* LaunchScreen.storyboard */,
 				0295F441243A37B000F4CBBA /* Info.plist */,
@@ -149,6 +152,7 @@
 				0295F434243A37AF00F4CBBA /* AppDelegate.swift in Sources */,
 				0295F436243A37AF00F4CBBA /* SceneDelegate.swift in Sources */,
 				0295F438243A37AF00F4CBBA /* ContentView.swift in Sources */,
+				02744146243B5694001275B9 /* Answer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
